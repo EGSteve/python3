@@ -1,3 +1,4 @@
+1-1
 samplefile=open("C:/Users/gj4vu/Desktop/sample.txt",encoding = "utf-8-sig")
 text=samplefile.read()
 samplefile.close()
@@ -15,7 +16,7 @@ for h in text:
     
        
 =============================
-    
+1-2    
 while True:
     a=input("input the word:")
     if len(a)<5:
